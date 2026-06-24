@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Splash from './pages/Splash';
 import Login from './pages/Login';
 import TechDashboard from './pages/tech/TechDashboard';
